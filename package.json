@@ -1,0 +1,19 @@
+{
+    "name": "get_block_id",
+    "version": "1.0.0",
+    "description": "A block tools set for working with Web3 and Ethereum smart contracts.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["web3", "ethereum", "smart contract"],
+    "author": "antonborisov87",
+    "license": "MIT",
+    "dependencies": {
+      "web3": "^1.5.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/antonborisov87/get_block_id.git"
+    }
+  }
